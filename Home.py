@@ -2,7 +2,6 @@ import  streamlit as st
 import pickle
 import numpy as np
 import pandas as pd
-import sklearn
 import plotly.express as px
 
 # Set page configuration
